@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\bin\Debug\net6.0\C_SharpSeminar4.exe
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\bin\Debug\net6.0\C_SharpSeminar4.deps.json
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\bin\Debug\net6.0\C_SharpSeminar4.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\bin\Debug\net6.0\C_SharpSeminar4.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\bin\Debug\net6.0\C_SharpSeminar4.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\refint\C_SharpSeminar4.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\C_SharpSeminar4.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230305\C_SharpSeminar4\obj\Debug\net6.0\ref\C_SharpSeminar4.dll
